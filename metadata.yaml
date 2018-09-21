@@ -1,0 +1,30 @@
+_repo: Marjorie-Dean-Macy_53637
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chase, Josephine
+    aliases:
+    - Flower, Jessie Graham
+    - Thompson, Ames
+    - Gordon, Grace
+    - Lester, Pauline
+    deathdate: 1931
+    gutenberg_agent_id: '1598'
+    url: http://www.gutenberg.org/2009/agents/1598
+description: ''
+gutenberg_issued: '2016-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Marriage customs and rites -- Juvenile fiction'
+- !lcsh 'Betrothal -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Young women -- Social life and customs -- Juvenile fiction'
+- GITenberg
+title: Marjorie Dean Macy
+url: http://www.gutenberg.org/ebooks/53637
